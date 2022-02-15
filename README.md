@@ -12,3 +12,4 @@
 ## Sources | 资源
 
 * [ ] [字体](https://www.zitijia.com/)
+* [ ] [Canvas随机点](https://wow.techbrood.com/fiddle/13472)
